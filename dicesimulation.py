@@ -1,3 +1,5 @@
+#By Jack Tsai
+
 import random
 
 
