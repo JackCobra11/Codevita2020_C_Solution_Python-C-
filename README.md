@@ -12,6 +12,9 @@
 
 记录投掷次数，取10000次的Average，四舍五入取整。并重复执行9次，输出10次模拟中的Minimum。
 
+## Constraint
+  0 < S < 10 ^ 5
+
 ## Timeout
   3
 
