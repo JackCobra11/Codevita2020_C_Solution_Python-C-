@@ -1,3 +1,5 @@
+//By Jack Tsai
+
 #include <iostream>
 #include <cmath> 
 #include <algorithm>
